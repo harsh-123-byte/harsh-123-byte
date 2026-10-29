@@ -141,16 +141,6 @@ performance.
 ---
 
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/harsh-123-byte/harsh-123-byte/output/snake.svg" alt="Snake animation"/>
-</div>
-
----
-
 <div align="center">
   <i>⭐️ From <a href="https://github.com/harsh-123-byte">Kumar Harsh</a> — crafted with ❤️ and endless ☕</i>
 </div>
